@@ -264,43 +264,17 @@ Python • Flask • Machine Learning
 </p>
 
 ---
-# 🏆 GitHub Achievements
+# ⚡ Coding Activity
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahfahad09&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shahfahad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </p>
 
----
-
-# 📊 GitHub Analytics
-
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahfahad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfahad09&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shahfahad09&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahfahad09&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfahad09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
