@@ -141,109 +141,14 @@ https://shahfahad09.github.io/-khan/
 
 # 🚀 Featured Projects
 
-<table>
+# 🚀 Featured Projects
 
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🤖 DeepRank AI</h3>
-
-<p align="center">
-
-Semantic Resume Ranking Engine using SBERT
-
-<br><br>
-
-Python • PyTorch • SBERT • NLP • Flask
-
-<br><br>
-
-<a href="https://github.com/shahfahad09">
-
-<img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📄 AI Research Assistant</h3>
-
-<p align="center">
-
-FastAPI • OpenAI • RAG • Research Automation
-
-<br><br>
-
-<a href="https://github.com/shahfahad09">
-
-<img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">📊 Customer Churn Prediction</h3>
-
-<p align="center">
-
-Machine Learning based Churn Prediction System
-
-<br><br>
-
-Scikit-Learn • Flask • Python
-
-<br><br>
-
-<a href="https://github.com/shahfahad09">
-
-<img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🏠 House Rent Prediction</h3>
-
-<p align="center">
-
-Random Forest based Price Prediction
-
-<br><br>
-
-Python • Flask • Machine Learning
-
-<br><br>
-
-<a href="https://github.com/shahfahad09">
-
-<img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 **DeepRank AI** | Semantic Resume Ranking using SBERT | Python • PyTorch • SBERT |
+| 🤖 **AI Research Assistant** | RAG based Research Assistant | FastAPI • LangChain • OpenAI |
+| 📊 **Customer Churn Prediction** | ML prediction & retention recommendations | Scikit-Learn • Flask |
+| 🏠 **House Rent Prediction** | House Rent Price Prediction | Random Forest • Flask |
 
 ---
 
@@ -264,19 +169,7 @@ Python • Flask • Machine Learning
 </p>
 
 ---
-# ⚡ Coding Activity
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahfahad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahfahad09&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
