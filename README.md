@@ -34,13 +34,15 @@
 
 # 👨🏻‍💻 About Me
 
+<img align="right" width="320" alt="Developer working on computer" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
 🎓 BCA Graduate passionate about **Artificial Intelligence** and **Machine Learning**
 
 🤖 Interested in building intelligent applications using **Machine Learning, Deep Learning, NLP, Computer Vision, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs).**
 
 ⚡ I enjoy developing production-ready AI applications with clean backend architectures using **Python, FastAPI, Flask, Docker, and Vector Databases.**
 
-🌱 Currently exploring
+🌱 **Currently exploring**
 
 - Deep Learning
 - Transformers
@@ -49,179 +51,132 @@
 - AI Agents
 - MLOps
 
-💼 Looking for
+💼 **Looking for**
 
 - Machine Learning Engineer
 - AI/ML Engineer
 - Generative AI Engineer
 - Python Developer
 
+<br clear="both"/>
+
 ---
 
 # 🛠 Tech Stack
 
-<table align="center">
+<div align="center">
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>SQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48"/>
 
-</table>
+</div>
 
 ---
 
 # 🤖 AI • Machine Learning • Deep Learning
 
-<table align="center">
+<div align="center">
 
-<tr>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=keras" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="48" height="48"/>
 
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch"/><br>PyTorch
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow"/><br>TensorFlow
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn"/><br>Scikit-Learn
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/><br>Pandas
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/><br>NumPy
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib"/><br>Matplotlib
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/><br>OpenCV
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy"/><br>SciPy
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=keras"/><br>Keras
-
-</td>
-
-<td align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface"/><br>HF
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
 # 🚀 Generative AI
 
-<table align="center">
+<div align="center">
 
-<tr>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chromadb" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=groq" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pinecone" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=weaviate" width="48" height="48"/>
 
-<td align="center">🤖<br>LLMs</td>
-
-<td align="center">🔍<br>RAG</td>
-
-<td align="center">🧠<br>Embeddings</td>
-
-<td align="center">📄<br>SBERT</td>
-
-<td align="center">📚<br>Sentence Transformers</td>
-
-<td align="center">⚡<br>LangChain</td>
-
-<td align="center">🌐<br>LangGraph</td>
-
-<td align="center">💬<br>Prompt Engineering</td>
-
-<td align="center">📖<br>Semantic Search</td>
-
-<td align="center">🤖<br>AI Agents</td>
-
-<td align="center">🗂<br>ChromaDB</td>
-
-<td align="center">⚙<br>FAISS</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-# ⚙ Backend & Deployment
+# ⚙️ Backend • Database • Deployment
 
-<table align="center">
+<div align="center">
 
-<tr>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=render" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=railway" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="48" height="48"/>
 
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi"/><br>FastAPI</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=flask"/><br>Flask</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres"/><br>PostgreSQL</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=sqlite"/><br>SQLite</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br>MongoDB</td>
-
-<td align="center">☁️<br>Render</td>
-
-<td align="center">🚂<br>Railway</td>
-
-<td align="center">🤗<br>HF Spaces</td>
-
-<td align="center">🔗<br>REST API</td>
-
-<td align="center">🐳<br>Docker</td>
-
-<td align="center">⚙️<br>GitHub Actions</td>
-
-<td align="center">🚀<br>Deployment</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
