@@ -294,21 +294,7 @@
 | 🐳 Docker & Deployment | ████████████ |
 | 📈 Production AI Systems | ███████████████ |
 
----
 
-# 🌱 Currently Learning
-
-| Learning | Progress |
-|----------|----------|
-| Deep Learning | 🟢🟢🟢🟢⚪ |
-| CNN & Computer Vision | 🟢🟢🟢⚪⚪ |
-| Transformers | 🟢🟢🟢⚪⚪ |
-| LangGraph | 🟢🟢⚪⚪⚪ |
-| AI Agents | 🟢🟢⚪⚪⚪ |
-| LLM Engineering | 🟢🟢🟢⚪⚪ |
-| MLOps | 🟢⚪⚪⚪⚪ |
-
----
 
 # 💡 Development Philosophy
 
