@@ -34,15 +34,15 @@
 
 # 👨🏻‍💻 About Me
 
-<img align="right" width="320" alt="Developer working on computer" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<img align="right" width="440" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-🎓 BCA Graduate passionate about **Artificial Intelligence** and **Machine Learning**
+🎓 **BCA Graduate** passionate about **Artificial Intelligence** and **Machine Learning**
 
-🤖 Interested in building intelligent applications using **Machine Learning, Deep Learning, NLP, Computer Vision, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs).**
+🤖 Building intelligent applications using **Machine Learning, Deep Learning, NLP, Computer Vision, RAG, and Large Language Models (LLMs).**
 
-⚡ I enjoy developing production-ready AI applications with clean backend architectures using **Python, FastAPI, Flask, Docker, and Vector Databases.**
+⚡ Experienced in developing production-ready AI applications with **Python, FastAPI, Flask, Docker, Vector Databases, and REST APIs.**
 
-🌱 **Currently exploring**
+🌱 **Currently Learning**
 
 - Deep Learning
 - Transformers
@@ -51,14 +51,14 @@
 - AI Agents
 - MLOps
 
-💼 **Looking for**
+💼 **Open To**
 
 - Machine Learning Engineer
 - AI/ML Engineer
 - Generative AI Engineer
 - Python Developer
 
-<br clear="both"/>
+<br clear="right"/>
 
 ---
 
