@@ -234,245 +234,135 @@
 
 
 
-
-
+---
 
 # 🧠 Core Expertise
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-
-- ✅ Supervised Learning
-- ✅ Unsupervised Learning
-- ✅ Regression Models
-- ✅ Classification Models
-- ✅ Ensemble Learning
-- ✅ Feature Engineering
-- ✅ Feature Selection
-- ✅ Data Preprocessing
-- ✅ Hyperparameter Tuning
-- ✅ Cross Validation
-- ✅ Model Evaluation
-- ✅ Error Analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Deep Learning
-
-- ✅ Artificial Neural Networks
-- ✅ Forward Propagation
-- ✅ Backpropagation
-- ✅ Gradient Descent
-- ✅ Activation Functions
-- ✅ Loss Functions
-- ✅ Optimizers
-- ✅ CNN
-- ✅ RNN
-- ✅ LSTM
-- ✅ Transfer Learning
-- ✅ Model Training
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Generative AI
-
-- ✅ Large Language Models
-- ✅ Retrieval-Augmented Generation
-- ✅ Semantic Search
-- ✅ Vector Databases
-- ✅ Embeddings
-- ✅ Prompt Engineering
-- ✅ AI Agents
-- ✅ LangChain
-- ✅ LangGraph
-- ✅ Document Retrieval
-- ✅ Context Management
-- ✅ LLM APIs
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙ AI Application Development
-
-- ✅ Flask APIs
-- ✅ FastAPI
-- ✅ REST APIs
-- ✅ Authentication
-- ✅ Docker Deployment
-- ✅ Cloud Deployment
-- ✅ Database Integration
-- ✅ Model Deployment
-- ✅ Production ML Pipelines
-- ✅ Backend Development
-- ✅ API Integration
-- ✅ Scalable AI Systems
-
-</td>
-
-</tr>
-
-</table>
+| 🤖 Machine Learning | 🧠 Deep Learning | 🚀 Generative AI | ⚙️ AI Development |
+|---------------------|------------------|------------------|------------------|
+| Supervised Learning | Artificial Neural Networks | Large Language Models (LLMs) | FastAPI |
+| Unsupervised Learning | Forward Propagation | Retrieval-Augmented Generation (RAG) | Flask |
+| Regression | Backpropagation | Semantic Search | REST APIs |
+| Classification | Gradient Descent | AI Agents | Model Deployment |
+| Ensemble Learning | CNN | Prompt Engineering | API Integration |
+| Feature Engineering | RNN | LangChain | Authentication |
+| Feature Selection | LSTM | LangGraph | Docker |
+| Hyperparameter Tuning | Transformers | Hugging Face | Cloud Deployment |
+| Cross Validation | Loss Functions | Embeddings | Backend Development |
+| Model Evaluation | Optimizers | ChromaDB • FAISS | Production AI Systems |
 
 ---
 
 # 📚 Machine Learning Knowledge
 
-| Category | Topics |
-|-----------|--------|
-| 📈 Regression | Linear, Multiple, Polynomial, Ridge, Lasso, ElasticNet |
-| 🎯 Classification | Logistic Regression, KNN, SVM, Decision Tree |
-| 🌲 Ensemble | Random Forest, Voting, Bagging, AdaBoost, Gradient Boosting, Stacking |
-| 🎲 Clustering | K-Means, Hierarchical Clustering |
-| ⚙ Feature Engineering | Missing Values, Encoding, Scaling, Feature Selection, Outlier Handling |
-| 📊 Evaluation | Accuracy, Precision, Recall, F1 Score, ROC-AUC, Confusion Matrix, Cross Validation |
-| 🚀 Optimization | Gradient Descent, SGD, Mini-Batch GD, Hyperparameter Tuning |
+| 📂 Category | Topics |
+|-------------|--------|
+| 📈 Regression | Linear • Multiple • Polynomial • Ridge • Lasso • ElasticNet |
+| 🎯 Classification | Logistic Regression • KNN • SVM • Decision Tree • Naive Bayes |
+| 🌲 Ensemble | Random Forest • Voting • Bagging • AdaBoost • Gradient Boosting • XGBoost • Stacking |
+| 🎲 Clustering | K-Means • Hierarchical • DBSCAN |
+| 📉 Dimensionality Reduction | PCA • Feature Selection |
+| ⚙️ Data Preprocessing | Missing Values • Encoding • Scaling • Outlier Handling |
+| 📊 Evaluation Metrics | Accuracy • Precision • Recall • F1 Score • ROC-AUC • Confusion Matrix • RMSE • MAE • R² |
+| 🚀 Optimization | Batch GD • SGD • Mini Batch GD • Hyperparameter Tuning |
 
 ---
 
 # 🚀 AI Engineering Stack
 
-<div align="center">
-
-| 🤖 AI | 📚 Retrieval | ⚙ Backend | ☁ Deployment |
-|------|------|------|------|
+| 🤖 AI Models | 📚 Retrieval | ⚙️ Backend | ☁️ Deployment |
+|--------------|-------------|------------|---------------|
 | LLMs | ChromaDB | FastAPI | Docker |
-| Transformers | FAISS | Flask | Railway |
-| HuggingFace | Vector Search | REST APIs | Render |
-| SBERT | Semantic Search | Authentication | HuggingFace |
-| LangChain | Embeddings | PostgreSQL | Linux |
-| LangGraph | RAG | SQLite | GitHub |
-
-</div>
+| Transformers | FAISS | Flask | Render |
+| Hugging Face | Semantic Search | REST APIs | Railway |
+| SBERT | Embeddings | PostgreSQL | Hugging Face Spaces |
+| Sentence Transformers | Vector Search | SQLite | Linux |
+| Gemini API | RAG | Authentication | GitHub Actions |
+| Groq API | Hybrid Search | API Integration | CI/CD |
 
 ---
 
 # 🎯 Current Focus
 
-```text
-🧠 Deep Learning                 ████████████████████
-
-🤖 Large Language Models         ███████████████████
-
-⚡ AI Agents                     ████████████████
-
-📚 LangGraph                     ███████████████
-
-🔍 Retrieval-Augmented Gen AI    █████████████████
-
-🐳 Docker & Deployment           ███████████
-
-🚀 Production AI                 ████████████████
-```
+| Area | Status |
+|------|--------|
+| 🧠 Deep Learning | ███████████████████ |
+| 🤖 Large Language Models | ██████████████████ |
+| 🚀 Retrieval-Augmented Generation | █████████████████ |
+| ⚡ AI Agents | ███████████████ |
+| 🌐 LangGraph | █████████████ |
+| 🐳 Docker & Deployment | ████████████ |
+| 📈 Production AI Systems | ███████████████ |
 
 ---
 
 # 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Deep%20Learning-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLOps-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLM%20Engineering-purple?style=for-the-badge"/>
-
-</div>
+| Learning | Progress |
+|----------|----------|
+| Deep Learning | 🟢🟢🟢🟢⚪ |
+| CNN & Computer Vision | 🟢🟢🟢⚪⚪ |
+| Transformers | 🟢🟢🟢⚪⚪ |
+| LangGraph | 🟢🟢⚪⚪⚪ |
+| AI Agents | 🟢🟢⚪⚪⚪ |
+| LLM Engineering | 🟢🟢🟢⚪⚪ |
+| MLOps | 🟢⚪⚪⚪⚪ |
 
 ---
 
 # 💡 Development Philosophy
 
-> Building AI is not just about achieving high accuracy.
-
-I believe intelligent systems should be:
-
-- ✔ Reliable
-- ✔ Explainable
-- ✔ Scalable
-- ✔ Production Ready
-- ✔ Easy to Maintain
-- ✔ Focused on solving real-world problems
+| ✔️ Principles |
+|---------------|
+| Build Production-Ready AI Systems |
+| Solve Real-World Problems |
+| Write Clean & Scalable Code |
+| Keep Learning Every Day |
+| Focus on Explainable AI |
+| Optimize for Performance & Reliability |
 
 ---
 
-# 📖 Currently Reading
+# 📖 Areas of Interest
 
-- 📘 Deep Learning
-- 📘 Hands-On Machine Learning
-- 📘 Attention Is All You Need
-- 📘 LangChain Documentation
-- 📘 HuggingFace Documentation
+| Artificial Intelligence | Machine Learning | Deep Learning | Generative AI |
+|-------------------------|------------------|---------------|----------------|
+| NLP | Computer Vision | LLMs | AI Agents |
+| RAG | Semantic Search | Vector Databases | Prompt Engineering |
+| MLOps | Model Deployment | API Development | Cloud AI |
 
 ---
 
 # 🤝 Let's Connect
 
-<div align="center">
+| 🌐 Portfolio | 💻 GitHub | 💼 LinkedIn | 📧 Email |
+|--------------|-----------|-------------|-----------|
+| **shahfahad09.github.io/-khan** | **github.com/shahfahad09** | **Your LinkedIn URL** | **khannishu522@gmail.com** |
 
-### Open to
+---
 
-**Machine Learning Engineer**
+# 💼 Open To
 
-**AI/ML Engineer**
-
-**Generative AI Engineer**
-
-**Python Developer**
-
-<br>
-
-<a href="mailto:khannishu522@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/shahfahad09">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://shahfahad09.github.io/-khan/">
-
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
-
-</a>
-
-</div>
+| 💻 Roles |
+|----------|
+| Machine Learning Engineer |
+| AI/ML Engineer |
+| Generative AI Engineer |
+| Python Developer |
+| Machine Learning Intern |
+| AI Research Intern |
 
 ---
 
 <div align="center">
 
-## 💬 Quote
+### 💬 Quote
 
+*"Building intelligent systems that solve real-world problems with Machine Learning and Generative AI."*
+
+</div>
+
+---
 > *"Turning ideas into intelligent systems with Machine Learning and Generative AI."*
 
 <br>
