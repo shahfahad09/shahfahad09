@@ -34,8 +34,8 @@
 
 # 👨🏻‍💻 About Me
 
-<img align="right" width="440" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-<img align="right" width="430" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<!-- <img align="right" width="440" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<img align="right" width="430" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/> -->
 <img align="right" width="430" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 **BCA Graduate** passionate about **Artificial Intelligence** and **Machine Learning**
